@@ -1,7 +1,8 @@
 # Respuestas sobre el temario de aplicaciones web
 
 **1.- Introducción al desarrollo web**  
-<img width="726" height="352" alt="image" src="https://github.com/user-attachments/assets/a9e3d3e6-bb24-4f98-b167-8454ceb2181f" />
+<img width="295" height="156" alt="image" src="https://github.com/user-attachments/assets/4303e6fa-8b14-4e11-8ac8-d69658e667a1" />
+
 
 Historia y evolución del desarrollo web:  
 El desarrollo web surge con la creación de la World Wide Web y ha evolucionado desde páginas estáticas hasta aplicaciones modernas e interactivas.
@@ -86,6 +87,7 @@ Autenticación verifica la identidad del usuario y autorización define los perm
 ---
 
 **Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional**
+<img width="241" height="170" alt="image" src="https://github.com/user-attachments/assets/9020a980-0657-40a2-b0aa-70417cd2e784" />
 
 **1.- Integración de frontend y backend**  
 Interfaz de usuario Frontend:  
